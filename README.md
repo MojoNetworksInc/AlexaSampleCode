@@ -22,5 +22,5 @@ NOTE: The logs from the lambda function (Python code uploaded) will be available
 Invoke the skill and utter the voice commands through an Alexa capable device like echo dot. Use CloudWatch to check logs from the lambda function for debugging.
 
 #License
-This project is licensed under the ..
+This project is licensed under the Mojo Products and Services License Agreement(https://www.mojonetworks.com/products-and-services-license-agreement)
 
